@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692979773845",
+    "project_id": "peerchat-a3cb8",
+    "storage_bucket": "peerchat-a3cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692979773845:android:f771a673cf11fadefcc69c",
+        "android_client_info": {
+          "package_name": "com.example.secondapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692979773845-splmpdu844nq3ldg5bc5h6nc1q79uvp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKMgXku_Ecm1JnR91mQ30W35wIhLydc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692979773845-splmpdu844nq3ldg5bc5h6nc1q79uvp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
